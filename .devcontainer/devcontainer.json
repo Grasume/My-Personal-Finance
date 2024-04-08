@@ -1,0 +1,5 @@
+{
+    "dockerComposeFile": "../.docker/docker-compose.yml",
+    "service": "fastapi",
+    "workspaceFolder": "/app"
+}
